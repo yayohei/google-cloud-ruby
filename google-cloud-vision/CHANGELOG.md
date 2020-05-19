@@ -1,5 +1,25 @@
 # Release History
 
+### 0.39.0 / 2020-05-19
+
+#### ⚠ BREAKING CHANGES
+
+* **vision:** use clients created by the new generator
+
+#### Features
+
+* Let Bundler.require load the gem without an extra explicit require call.
+* use clients created by the new generator
+
+#### Bug Fixes
+
+* Eliminated a circular require warning.
+
+#### Documentation
+
+* Remove migration guide note about multi-pattern resources
+* Updated the sample timeouts in the migration guide to reflect seconds
+
 ### 0.38.0 / 2020-03-11
 
 #### Features
