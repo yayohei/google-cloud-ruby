@@ -1,5 +1,23 @@
 # Release History
 
+### 2.0.0 / 2020-05-19
+
+#### ⚠ BREAKING CHANGES
+
+* **kms:** Convert google-cloud-kms to a wrapper gem
+
+#### Features
+
+* Convert google-cloud-kms to a wrapper gem
+
+#### Bug Fixes
+
+* Eliminated a circular require warning.
+
+#### Documentation
+
+* Updated the sample timeouts in the migration guide to reflect seconds
+
 ### 1.6.0 / 2020-04-08
 
 #### Features
