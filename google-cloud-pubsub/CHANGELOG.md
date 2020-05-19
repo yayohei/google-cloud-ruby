@@ -1,5 +1,11 @@
 # Release History
 
+### 1.7.0 / 2020-05-19
+
+#### Features
+
+* Set client-scoped UUID in initial StreamingPullRequest#client_id
+
 ### 1.6.1 / 2020-05-06
 
 #### Documentation
